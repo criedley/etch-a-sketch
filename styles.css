@@ -1,3 +1,14 @@
+.grid {
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gridElement {
+    border: 1px solid;
+}
+
 .gridRow {
     display: flex;
 }
