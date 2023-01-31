@@ -1,0 +1,8 @@
+.gridRow {
+    display: flex;
+}
+
+.gridSquare {
+    height: 50px;
+    width: 50px;
+}
